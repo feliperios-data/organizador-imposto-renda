@@ -20,7 +20,7 @@ Planilha moderna e estruturada para organização de dados, informes financeiros
 - Validação de Dados 
 
 ## 🚀 Como Utilizar
-1. Realize o download do arquivo `Organizador_IR_Moderno.xlsx`.
+1. Realize o download do arquivo `Organizador de Imposto de Renda.xlsx`.
 2. Preencha a aba de **Dados Pessoais** com as informações atualizadas.
 3. Na aba de **Saldos Bancários**, utilize os menus suspensos para selecionar a instituição e registre os valores.
 4. Documente as entradas financeiras sequencialmente na aba de **Receitas e Entradas**.
